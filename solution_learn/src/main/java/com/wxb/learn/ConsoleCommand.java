@@ -6,6 +6,7 @@ import java.io.*;
 import java.net.URLEncoder;
 import java.util.Arrays;
 import java.util.StringTokenizer;
+import java.util.concurrent.CountDownLatch;
 
 /**
  * @author wangxianbing
